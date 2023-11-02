@@ -1,0 +1,1 @@
+export const addZero = (i: number) => i < 10 ? `0${i}` : i;
